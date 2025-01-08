@@ -9,7 +9,7 @@ Note 📝 If you deploy this bot on heroku make sure u leave a space in writing 
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
-    <img alt=Support height="390" src="https://files.catbox.moe/f2n1wl.jpg"> 
+    <img alt=Support height="390" src="https:/l.jpg"> 
     </p>
  
  
