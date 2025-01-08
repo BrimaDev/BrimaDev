@@ -14,7 +14,7 @@ Note 📝 If you deploy this bot on heroku make sure u leave a space in writing 
  
  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA+🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BRIAN_MBAKA-MD+MADE+IN+KENYA+🇰🇪" alt="Typing SVG" /></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -142,7 +142,7 @@ Note 📝 If you deploy this bot on heroku make sure u leave a space in writing 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-- *Special Thanks For You Bro **[Ibrahim-Adams❤️](https://github.com/ibrahimaitech)***
+- *Special Thanks For You Bro **[Brian Mbaka❤️](https://github.com/ibrahimaitech)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
